@@ -1,6 +1,5 @@
-# ML-week-2-assingment
-Part 1:
-Logistic Regression Classifier 
+# ML-week-2-assignment
+Part 1: Logistic Regression Classifier 
 Part 2: 
 MVC Classifier
 Part 3: 
